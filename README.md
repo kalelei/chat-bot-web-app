@@ -41,4 +41,5 @@ This project is a simple web-based chatbot application using a pre-trained langu
 
 ## ▶️ Runnin The App
 cd LLM_application_chatbot/
+
 flask run
