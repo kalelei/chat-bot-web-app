@@ -16,17 +16,24 @@ This project is a simple web-based chatbot application using a pre-trained langu
 
 │
 ├── app.py # Flask backend application
+
 ├── requirements.txt # Required Python packages
+
 ├── static/
-│ └── script.js # Handles chat interaction with the backend
+
+│ 
+
+└── script.js # Handles chat interaction with the backend
+
 └── templates/
+
 └── index.html # Chatbot interface
 
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/ibm-developer-skills-network/LLM_application_chatbot](https://github.com/kalelei/chat-bot-web-app.git)]
+   git clone https://github.com/kalelei/chat-bot-web-app.git
 
 2. **Install packages**:
    python3.11 -m pip install -r LLM_application_chatbot/requirements.txt
