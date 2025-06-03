@@ -2,6 +2,10 @@
 
 # LLM Chatbot Web Application
 
+A chatbot is a computer program that takes a text input, and returns a corresponding text output.
+
+Chatbots use a special kind of computer program called a transformer, which is like its brain. Inside this brain, there is something called a language model (LLM), which helps the chatbot understand and generate human-like responses. It deciphers many examples of human conversations it has seen prior to responding in a sensible manner.
+
 This project is a simple web-based chatbot application using a pre-trained language model from Hugging Face and a Flask backend. It integrates a chatbot interface with a backend API to demonstrate how to communicate between frontend and server using HTTP requests.
 
 ## 🚀 Features
